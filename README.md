@@ -11,4 +11,4 @@
 
 ![EthanielK's GitHub stats](https://github-readme-stats.vercel.app/api?username=ethanielK)
 
-![EthanielK's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ethanielK)
+![EthanielK's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ethanielK&bg_color=274167&color=a6c0eb&line=cee8ff&point=cb80ff)
