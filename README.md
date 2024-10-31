@@ -1,16 +1,14 @@
-## Hi there 👋
+<h1 align="left">Hi 👋, I'm EthanielK</h1>
+<h3 align="left">A junior developer from China🧑‍💻.</h3>
 
-<!--
-**ethanielK/ethanielK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **an unknown state-owned enterprise**
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **WPF & Avalonia & Qt**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about **C#, WPF and Qt**
+
+- ⚡ Fun fact **Cooking & Cycling & Video games.**
+
+![EthanielK's GitHub stats](https://github-readme-stats.vercel.app/api?username=ethanielK)
+
+![EthanielK's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ethanielK)
