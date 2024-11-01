@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm EthanielK</h1>
+<h1 align="left">Hi 👋, I'm 🥝Ethaniel</h1>
 <h3 align="left">A junior developer from China🧑‍💻.</h3>
 
 - 🔭 I’m currently working on **an unknown state-owned enterprise**
