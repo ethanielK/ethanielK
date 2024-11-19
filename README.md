@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm 🥝Ethaniel</h1>
-<h3 align="left">A junior developer from China🧑‍💻.</h3>
+<h3 align="left">A junior developer 🐇</h3>
 
 - 🔭 I’m currently working on **an unknown state-owned enterprise**
 
